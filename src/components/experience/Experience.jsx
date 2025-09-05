@@ -13,8 +13,6 @@ export default function Experience() {
         
         {/* النصوص */}
         <div 
-          data-aos='fade-left' 
-          data-aos-delay='300'
           className='md:w-1/2 w-full text-right md:pr-10 space-y-5 sm:space-y-6'>
          
           <p className='text-white leading-relaxed text-base sm:text-lg'>
@@ -23,22 +21,21 @@ export default function Experience() {
           </p>
 
           <ul className='text-white text-sm sm:text-lg space-y-3 sm:space-y-4'>
-            <li>✅ بمعايير لحام دقيقة لضمان المتانة</li>
-            <li>✅ دهان الكتروستاتيك ضد الصدأ لمقاومة الظروف القاسية</li>
-            <li>✅ تصميم هندسي يتحمل درجات حرارة من -18 حتى -20 درجة</li>
-            <li>✅ قدرة تحمل تصل إلى 1700 كجم</li>
-            <li>✅ ضمان 3 سنوات ضد عيوب الصناعة</li>
+            <li> بمعايير لحام دقيقة لضمان المتانة - </li>
+            <li> دهان الكتروستاتيك ضد الصدأ لمقاومة الظروف القاسية - </li>
+            <li> تصميم هندسي يتحمل درجات حرارة من -18 حتى -20 درجة - </li>
+            <li> قدرة تحمل تصل إلى 1700 كجم - </li>
+            <li> ضمان 3 سنوات ضد عيوب الصناعة - </li>
           </ul>
 
           <p className='mt-6 sm:mt-8 text-yellow-400 font-semibold text-lg sm:text-xl'>
-            الوكيل ستيل... قوة التصنيع وجودة تدوم.
+            الوكيل ستيل... قوة التصنيع وجودة تدوم
           </p>
         </div>
 
         {/* صورة الخبرة */}
         <div 
-          data-aos='fade-right' 
-          data-aos-delay='100'
+         
           className='md:w-1/2 w-full flex justify-center mb-8 md:mb-0 relative'>
           
           <div className='absolute h-[260px] w-[260px] sm:h-[350px] sm:w-[350px] bg-gradient-to-r from-yellow-600 via-yellow-400 to-yellow-200 rounded-full opacity-30 blur-2xl -z-10'></div>
