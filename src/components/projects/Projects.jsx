@@ -8,15 +8,14 @@ import p3 from '../../assets/p3.jpg'
 import p4 from '../../assets/p4.jpg'
 import p5 from '../../assets/p5.jpg'
 import p7 from '../../assets/p7.jpg'
-import p8 from '../../assets/p8.jpg'        
-
+import updated from '../../assets/updated.jpg'
 const image = p1
 const image2 = p2
 const image3 = p3
 const image4 = p4
 const image5 = p5
 const image7 = p7
-const image8 = p8
+const image8 = updated
 
 export default function Projects() {
     const listProjects = [
